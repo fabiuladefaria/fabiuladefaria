@@ -6,18 +6,21 @@ Bem-vindo(a) ao meu GitHub! Aqui você encontra meus projetos, estudos, experime
 
 ---
 
-💻 Estudante, desenvolvedora e Fullstack Developer
+💻 Estudante e desenvolvedora Fullstack 
 
 🎯 Aprimorando meus conhecimentos em UX/UI Design
 
-📚 Sempre aprendendo novas tecnologias e criando projetos para portfólio
+📚 Sempre aprendendo novas tecnologias e criando projetos
 
 ✨ Paixão por transformar ideias em interfaces bonitas e funcionais
 
 ## 🔧 Tecnologias que uso
 
 <div style="display: flex; gap: 10px;">
-  
+
+  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -30,8 +33,7 @@ Bem-vindo(a) ao meu GitHub! Aqui você encontra meus projetos, estudos, experime
 
 ## 📌 Projetos em destaque
 
-🔹 **Portfólio Pessoal**  
-Descrição breve do projeto — *HTML, CSS e JS*  
+🔹 **Portfólio Pessoal**   
 👉 [Acessar Projeto](#)
 
 
@@ -40,10 +42,10 @@ Descrição breve do projeto — *HTML, CSS e JS*
 
 ## 📫 Contato
 
-📸 **Instagram:** https://instagram.com/  
-💼 **LinkedIn:** https://linkedin.com/in/  
-💻 **Portfólio:** *em breve? posso fazer!*  
-📧 **Email:** fabiuladefaria@gmail.com *(exemplo, posso trocar)*
+📸 **Instagram:** https://instagram.com/fabiuladefaria/ 
+💼 **LinkedIn:** https://linkedin.com/in/fabiuladefaria/  
+💻 **Portfólio:** 
+📧 **Email:** fabiuladefaria@gmail.com
 
 
 
