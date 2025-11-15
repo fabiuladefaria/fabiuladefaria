@@ -48,15 +48,7 @@ Bem-vindo(a) ao meu GitHub! Aqui você encontra meus projetos, estudos, experime
 
 
 
-## ⭐ Estatísticas do GitHub
 
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
-
-</div>
 
 ---
 
